@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/maps.workadventu.re\/Floor0\/floor0.json"
+                 "value":"../Floor0/floor0.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/coders-map\/map.json"
+                 "value":"../coders-map/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/fantasy-map\/map.json"
+                 "value":"../fantasy-map/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/skapa-map\/map.json"
+                 "value":"../skapa-map/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/tower-map\/map.json"
+                 "value":"../tower-map/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/office-map\/map.json"
+                 "value":"../office-map/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/pub-map\/map.json"
+                 "value":"../pub-map/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/classroom-map\/map.json"
+                 "value":"../classroom-map/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/cacom\/map.json"
+                 "value":"../cacom/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +199,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/steph-map\/map.json"
+                 "value":"../steph-map/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
