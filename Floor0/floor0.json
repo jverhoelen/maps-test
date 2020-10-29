@@ -211,7 +211,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{{lobbyMap}}"
+                 "value":"{lobbyMap}"
                 }],
          "type":"tilelayer",
          "visible":true,
