@@ -97,7 +97,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Floor0\/floor0.json#down-the-stairs"
+                 "value":"../main.json#down-the-stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -563,7 +563,7 @@
         {
          "columns":8,
          "firstgid":4809,
-         "image":"..\/Floor0\/floortileset.png",
+         "image":"../floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
