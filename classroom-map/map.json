@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/corridor-map\/map.json#front_of_classroom"
+                 "value":"../corridor-map/map.json#front_of_classroom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2720,7 +2720,7 @@
         {
          "columns":66,
          "firstgid":1898,
-         "image":"..\/Floor1\/FloorTile_S.jpg",
+         "image":"../Floor1/FloorTile_S.jpg",
          "imageheight":2180,
          "imagewidth":2141,
          "margin":0,

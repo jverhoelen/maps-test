@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.swile.co\/"
+                 "value":"https://app.swile.co/"
                 }],
          "type":"tilelayer",
          "visible":true,
